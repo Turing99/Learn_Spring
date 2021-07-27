@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/Learn_Spring.iml" filepath="$PROJECT_DIR$/.idea/Learn_Spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring/jdbc_ex2(qualifier)/jdbc_ex2_qualifier.iml" filepath="$PROJECT_DIR$/Spring/jdbc_ex2(qualifier)/jdbc_ex2_qualifier.iml" />
     </modules>
   </component>
 </project>
