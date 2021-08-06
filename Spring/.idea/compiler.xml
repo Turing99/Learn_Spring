@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="jdbc_ex2_qualifier" />
+        <module name="Options_to_manage_the_context" />
+        <module name="Connecting_to_database_JDBC" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Connecting_to_database_JDBC" target="11" />
+      <module name="jdbc_ex2_qualifier" target="11" />
+      <module name="Options_to_manage_the_context" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

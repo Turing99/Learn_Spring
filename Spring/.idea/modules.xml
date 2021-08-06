@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Connecting_to_database(JDBC)/Connecting_to_database_JDBC.iml" filepath="$PROJECT_DIR$/Connecting_to_database(JDBC)/Connecting_to_database_JDBC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Options_to_manage_the_context/Options_to_manage_the_context.iml" filepath="$PROJECT_DIR$/Options_to_manage_the_context/Options_to_manage_the_context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Spring.iml" filepath="$PROJECT_DIR$/.idea/Spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jdbc_ex2(qualifier)/jdbc_ex2_qualifier.iml" filepath="$PROJECT_DIR$/jdbc_ex2(qualifier)/jdbc_ex2_qualifier.iml" />
+    </modules>
+  </component>
+</project>
